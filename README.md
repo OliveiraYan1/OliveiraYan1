@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yan Oliveira
-- 👀 I’m interested in back-end and data engineering area.
+- 👀 I’m interested in back-end area.
 - 🌱 I’m currently changing my carreer from civil engineering.
 - Doing Fullstack developer course at GrowDev.
 
